@@ -8,7 +8,7 @@ Ruby on Railsを使って開発しようとしてWebアプリケーションと�
 * [Webアプリケーションとは](https://www.sejuku.net/blog/1046)
 * [Webアプリケーションの概要](http://si.comp.ae.keio.ac.jp/web_app_dev_material/simple/about_webapp/index.html)
 * [HTTPプロトコル](http://si.comp.ae.keio.ac.jp/web_app_dev_material/simple/about_webapp/index.html)
-* [RubyとRailsの学習ガイド2019年版](https://magazine.rubyist.net/articles/0059/0059-Ruby-Rails-Beginners-Guide.html)[RubyとRailsの学習ガイド2019年版](https://magazine.rubyist.net/articles/0059/0059-Ruby-Rails-Beginners-Guide.html)
+* [RubyとRailsの学習ガイド2019年版](https://magazine.rubyist.net/articles/0059/0059-Ruby-Rails-Beginners-Guide.html)
 
 ### Ruby on Railsとは
 
