@@ -47,12 +47,28 @@ Webアプリケーション用フレームワークです。Webアプリケー�
 
 ## 開発Tips
 
-### Routing
+### rake routes
 
 routes.rbのデバッグ
 
 ```
 $ rake routes
+```
+
+#### rails console
+
+モデルの動作テスト
+
+```
+$ rails console
+```
+
+### rails dbconsole
+
+DBクライアントからDB接続
+
+```
+$ rails dbconsole
 ```
 
 
@@ -61,5 +77,7 @@ $ rake routes
 
 * [ターミナルコマンド](terminal.md)
 * [画像アップロード](upload_image.md)
+* [Railsのバリデーションエラーのメッセージの日本語化 \- Qiita](https://qiita.com/Ushinji/items/242bfba84df7a5a67d5b)
+* [Rails エラーメッセージの表示 \- Qiita](https://qiita.com/ryuuuuuuuuuu/items/1a1e53d062bff774d88a)
 
 
