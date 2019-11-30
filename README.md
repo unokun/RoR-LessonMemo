@@ -76,8 +76,19 @@ $ rails dbconsole
 ## リンク
 
 * [ターミナルコマンド](terminal.md)
+
 * [画像アップロード](upload_image.md)
+
 * [Railsのバリデーションエラーのメッセージの日本語化 \- Qiita](https://qiita.com/Ushinji/items/242bfba84df7a5a67d5b)
+
 * [Rails エラーメッセージの表示 \- Qiita](https://qiita.com/ryuuuuuuuuuu/items/1a1e53d062bff774d88a)
+
+* [Rails における nil?, empty?, blank?, present? の使い分けとBetter Practice \- Qiita](https://qiita.com/aeroastro/items/b58228decb7094af7594)
+
+* [form\_tag と form\_for は Rails5\.1で soft deprecated \(非推奨\) となり](https://qiita.com/hmmrjn/items/24f3b8eade206ace17e2)
+
+* [redirect\_to @userが何を省略しているかわかりますか？〜挫折しないRailsチュートリアル７章〜 \- Qiita](https://qiita.com/Kawanji01/items/96fff507ed2f75403ecb)
+
+  
 
 
